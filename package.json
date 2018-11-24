@@ -1,0 +1,8 @@
+{
+  "name": "magic-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ayameng/magic-life.git",
+  "author": "wave <372969383@qq.com>",
+  "license": "MIT"
+}
